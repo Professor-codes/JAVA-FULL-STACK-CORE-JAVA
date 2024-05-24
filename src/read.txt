@@ -1,0 +1,25 @@
+JVM (Java Virtual Machine)
+
+JVM is a virtual machine that runs Java bytecode
+It includes a Just-In-Time (JIT) compiler that optimizes the execution of bytecode
+
+--------------------------------------------------
+
+JRE (Java Runtime Environment)
+
+JRE is a set of software tools that provide the necessary environment for running Java applications
+It does not include development tools like compilers or debuggers, making it suitable for users
+who want to run Java applications, not develop them
+
+--------------------------------------------------
+
+JDK (Java Development Kit)
+
+JDK is a full-featured software development kit used for developing Java applications
+It includes the JRE, a compiler (javac), a debugger, and other tools necessary for Java development
+
+--------------------------------------------------
+
+JVM : Executes Java bytecode, making Java programs platform-independent
+JRE : Contains the JVM and libraries to run Java programs, but not for development
+JDK : Contains the JRE and tools needed for developing Java applications
