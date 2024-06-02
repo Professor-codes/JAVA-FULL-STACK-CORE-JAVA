@@ -46,3 +46,8 @@ Operators are symbols that is used to perform operations
 
 --------------------------------------------------
 
+Literals are constant values assigned to a variables
+
+--------------------------------------------------
+
+
