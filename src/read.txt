@@ -96,5 +96,34 @@ switch (expression) {
 
 --------------------------------------------------
 
+For loop
 
+for (initialization; condition; increment/decrement) {
+    code to be executed
+}
 
+--------------------------------------------------
+
+While loop
+
+while (condition) {
+    code to be executed
+}
+
+--------------------------------------------------
+
+Do while loop
+
+do {
+    code to be executed
+} while (condition);
+
+--------------------------------------------------
+
+For each loop
+
+for (type element : array/collection) {
+    code to be executed
+}
+
+--------------------------------------------------
