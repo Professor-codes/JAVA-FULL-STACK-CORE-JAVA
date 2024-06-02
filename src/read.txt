@@ -50,4 +50,51 @@ Literals are constant values assigned to a variables
 
 --------------------------------------------------
 
+If statement
+
+if (condition) {
+    code to be executed if condition is true
+}
+
+--------------------------------------------------
+
+If Else statement
+
+if (condition) {
+    code to be executed if condition is true
+} else {
+    code to be executed if condition is false
+}
+
+--------------------------------------------------
+
+If Else If ladder
+
+if (condition1) {
+    code to be executed if condition1 is true
+} else if (condition2) {
+    code to be executed if condition2 is true
+} else {
+    code to be executed if all conditions are false
+}
+
+--------------------------------------------------
+
+Switch statement
+
+switch (expression) {
+    case value1:
+        code to be executed if expression equals value1
+        break;
+    case value2:
+        code to be executed if expression equals value2
+        break;
+    (you can have any number of case statements)
+    default:
+        code to be executed if expression doesn't match any case
+}
+
+--------------------------------------------------
+
+
 
