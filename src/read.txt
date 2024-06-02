@@ -23,3 +23,26 @@ It includes the JRE, a compiler (javac), a debugger, and other tools necessary f
 JVM : Executes Java bytecode, making Java programs platform-independent
 JRE : Contains the JVM and libraries to run Java programs, but not for development
 JDK : Contains the JRE and tools needed for developing Java applications
+
+--------------------------------------------------
+
+Primitive data types
+(inbuilt with java)
+
+Non Primitive data types
+(created by user)
+
+--------------------------------------------------
+
+Implicit type casting
+(Automatically done by JVM)
+
+Explicit type casting
+(Forcefully done by user)
+
+--------------------------------------------------
+
+Operators are symbols that is used to perform operations
+
+--------------------------------------------------
+
