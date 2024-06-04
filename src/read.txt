@@ -141,3 +141,24 @@ resume loop with next iteration
 The continue statement is used to skip the current iteration of a loop and proceed to the next iteration. It does not terminate the loop; instead, it stops the current iteration and moves to the next iteration based on the loop's condition.
 
 --------------------------------------------------
+
+object oriented programming
+
+oops is a concept in any programming language (c++, java, python)
+Object-oriented programming is a programming paradigm that uses objects to design computer programs.
+
+--------------------------------------------------
+
+class
+
+class is a logical entity
+contains properties (data members)
+contains behaviour (methods)
+
+--------------------------------------------------
+
+object
+
+object is a physical entity
+
+
