@@ -131,11 +131,13 @@ for (type element : array/collection) {
 break
 
 loops terminate on specified condition
+The break statement is used to exit from a loop immediately, skipping any remaining iterations and statements in the loop. It can also be used to exit from a switch statement.
 
 --------------------------------------------------
 
 continue
 
 resume loop with next iteration
+The continue statement is used to skip the current iteration of a loop and proceed to the next iteration. It does not terminate the loop; instead, it stops the current iteration and moves to the next iteration based on the loop's condition.
 
 --------------------------------------------------
