@@ -155,10 +155,27 @@ class is a logical entity
 contains properties (data members)
 contains behaviour (methods)
 
+A Java class is the template or blueprint from which objects are created
+It is a blueprint for an object
+A class is created using the keyword `class`
+
+
 --------------------------------------------------
 
 object
 
 object is a physical entity
+
+an object is the instance or result of a class
+an object is a variable of the type class
+A class is a template or blueprint from which objects are created
+
+an object is a basic unit of oops that represents an instance of a class
+Each object has:
+State (represented by fields or attributes or data members)
+Behavior (represented by member methods or methods)
+Identity (a unique reference in memory)
+
+--------------------------------------------------
 
 
