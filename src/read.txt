@@ -134,6 +134,8 @@ loops terminate on specified condition
 
 --------------------------------------------------
 
+continue
 
+resume loop with next iteration
 
 --------------------------------------------------
