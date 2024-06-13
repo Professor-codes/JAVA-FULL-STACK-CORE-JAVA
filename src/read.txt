@@ -197,4 +197,16 @@ number of arguments different
 type of arguments different
 order of arguments different
 
+--------------------------------------------------
+
+method overloading
+
+Having multiple methods in same class with same name
+return type of method will not get affected
+
+number of arguments different
+type of arguments different
+order of arguments different
+
+--------------------------------------------------
 
