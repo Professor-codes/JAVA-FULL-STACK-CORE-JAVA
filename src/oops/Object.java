@@ -2,7 +2,7 @@
 package oops;
 
 // CLASS
-public class Users {
+public class Object {
 
     // PROPERTIES
     // DATA MEMBERS
@@ -27,10 +27,10 @@ public class Users {
         // OBJECT
 
         // Declaration
-        Users user;
+        Object user;
 
         // Initialization
-        user = new Users();
+        user = new Object();
 
         // USING THE OBJECT
         // Access the data members
