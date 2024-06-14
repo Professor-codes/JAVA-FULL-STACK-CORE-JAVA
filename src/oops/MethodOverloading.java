@@ -15,7 +15,6 @@ class Test {
     public void print(String str) {
         System.out.println("String : " + str);
     }
-
 }
 
 public class MethodOverloading {
