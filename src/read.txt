@@ -212,7 +212,12 @@ order of arguments different
 
 this keyword
 
+this is pointing to current class object
+represents the current class object
 refer current invoking object
+
+this can not be used in static context
+only used in non-static context
 
 this()
 
