@@ -225,3 +225,8 @@ for calling current class constructor from inside different constructor of same 
 
 --------------------------------------------------
 
+inheritance
+
+mechanism in java by which one class is allowed to inherit the features of another class
+
+--------------------------------------------------
