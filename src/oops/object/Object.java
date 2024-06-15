@@ -1,5 +1,5 @@
 // PACKAGE
-package oops;
+package oops.object;
 
 // CLASS
 public class Object {
