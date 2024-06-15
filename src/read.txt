@@ -227,6 +227,7 @@ for calling current class constructor from inside different constructor of same 
 
 inheritance
 
+allowing all methods and variables from one class to be accessible by another class
 mechanism in java by which one class is allowed to inherit the features of another class
 
 --------------------------------------------------
