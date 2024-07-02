@@ -239,3 +239,16 @@ super class  |  sub class
 base class  |  derived class
 
 --------------------------------------------------
+
+method overriding
+
+Method overriding in Java is a feature that allows a subclass to provide a specific implementation of a method (body) that is already defined in its superclass method (body).
+
+must have the same name, return type, and parameter list as the method in the superclass
+Static methods cannot be overridden
+method declared as final in the superclass cannot be overridden
+constructors cannot be overridden
+private methods of a superclass are not inherited by subclasses and cannot be overridden
+
+--------------------------------------------------
+
