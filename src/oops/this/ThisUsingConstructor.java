@@ -6,8 +6,8 @@ public class ThisUsingConstructor {
     int number2;
 
     public ThisUsingConstructor(int number1, int number2) {
-        this.number1 = number1;
-        this.number2 = number2;
+        this.number1 = number1; // 100
+        this.number2 = number2; // 300
     }
 
     public static void main(String[] args) {
