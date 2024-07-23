@@ -3,17 +3,23 @@ package oops;
 public class MethodOverloading {
 
     // METHOD FOR CHAR
+    // first method
     public void print(int i) {
         System.out.println("Integer : " + i);
     }
 
     // METHOD FOR CHAR
-    public void print(char ch) {
+    // second method overload woth Integer i
+    public void print(int i, char ch) {
+        System.out.println("Integer : " + i);
         System.out.println("Character : " + ch);
     }
 
     // METHOD FOR STRING
-    public void print(String str) {
+    // third method overload with Integer i and char ch
+    public void print(int i, char ch, String str) {
+        System.out.println("Integer : " + i);
+        System.out.println("Character : " + ch);
         System.out.println("String : " + str);
     }
 
@@ -25,8 +31,8 @@ public class MethodOverloading {
         // OBJECT
         MethodOverloading obj = new MethodOverloading();
         obj.print(i);
-        obj.print(ch);
-        obj.print(str);
+        obj.print(i, ch);
+        obj.print(i, ch, str);
 
     }
 }
