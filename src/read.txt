@@ -260,3 +260,33 @@ behaviour are member methods or methods
 
 --------------------------------------------------
 
+abstraction
+
+showing features
+and hiding internal details or logic or implementation
+
+abstraction contains Abstract class and Interface
+
+Abstract class - 0 to 100 percentage abstraction
+Interface - 100 percentage abstraction
+
+abstract class can not be instantiated or
+object are not created from the abstract class
+
+--------------------------------------------------
+
+concrete method or  complete method
+
+public void method(){   // method
+    System.out.println("hi");   // body
+}
+
+--------------------------------------------------
+
+abstract method
+
+public void method();   // method
+--------------------------------------------------
+
+
+
