@@ -286,7 +286,24 @@ public void method(){   // method
 abstract method
 
 public void method();   // method
+
 --------------------------------------------------
 
+polymorphism
+
+poly + morphs
+many + forms
+
+--------------------------------------------------
+
+polymorphism types
+
+compile time polymorphism - static binding
+run time polymorphism - dynamic binding
+
+compile time achieve through overloading
+run time achieve through overriding
+
+--------------------------------------------------
 
 
