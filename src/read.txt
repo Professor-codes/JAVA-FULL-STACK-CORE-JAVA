@@ -252,3 +252,11 @@ private methods of a superclass are not inherited by subclasses and cannot be ov
 
 --------------------------------------------------
 
+encapsulation
+
+wrapping of properties and behaviour in a single unit called class
+properties are data members or variables
+behaviour are member methods or methods
+
+--------------------------------------------------
+
