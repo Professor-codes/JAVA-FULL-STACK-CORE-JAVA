@@ -312,4 +312,53 @@ run time achieve through overriding
 
 --------------------------------------------------
 
+packages
+
+used to group related classes
+packages are folder in a file directory
+use packages to avoid name conflicts
+and to write a better maintainable code
+
+Packages are divided into two categories :
+Built-in Packages (packages from the Java API)
+User-defined Packages (create your own packages)
+
+--------------------------------------------------
+
+create package
+
+1 create a java class file
+2 create a package named `packages`
+3 save java file to this folder
+4 javac packages\TestFirst.java (compile when file is in working directory)
+5 java packages.TestFirst (run from src directory)
+
+--------------------------------------------------
+
+import package
+
+1 using fully qualified class name
+packages.TestFirst obj = new packages.TestFirst();
+
+example :
+java.util.Scanner sc = new java.util.Scanner();
+
+--------------------------------------------------
+
+2 using importing single class
+import packages.TestFirst;
+TestFirst obj = new TestFirst();
+
+example :
+import java.util.Scanner;
+Scanner sc = new Scanner();
+
+--------------------------------------------------
+
+2 using importing all class
+import packages.*;
+
+example :
+import java.util.*;
+
 
