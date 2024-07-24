@@ -302,7 +302,10 @@ ability of an object to behave differently
 polymorphism types
 
 compile time polymorphism - static binding
+object is bound with their functionality or methods at the compile time
+
 run time polymorphism - dynamic binding
+object is bound with their functionality or methods at the run time
 
 compile time achieve through overloading
 run time achieve through overriding
