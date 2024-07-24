@@ -294,6 +294,9 @@ polymorphism
 poly + morphs
 many + forms
 
+polymorphism means many forms
+ability of an object to behave differently
+
 --------------------------------------------------
 
 polymorphism types
