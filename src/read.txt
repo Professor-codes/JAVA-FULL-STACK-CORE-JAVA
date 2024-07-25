@@ -375,3 +375,22 @@ java TestSecond
 setting > system > about > Advanced system settings > system properties > environment variables > user > path > new user variable
 
 --------------------------------------------------
+
+jar tool
+
+(open terminal)
+
+create jar file
+> jar
+> jar --help
+
+> jar -cvf my.jar my.class
+OR
+> jar -cvf my.jar *
+
+extracting jar file
+> jar -xf my.jar
+OR
+> jar -xf my
+
+--------------------------------------------------
