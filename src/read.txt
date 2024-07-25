@@ -361,4 +361,17 @@ import packages.*;
 example :
 import java.util.*;
 
+--------------------------------------------------
 
+3 using classpath
+
+(Temporary classpath - for single session)
+set classpath=D:\;
+
+javac TestSecond.java
+java TestSecond
+
+(Permanent classpath - for permanent)
+setting > system > about > Advanced system settings > system properties > environment variables > user > path > new user variable
+
+--------------------------------------------------
