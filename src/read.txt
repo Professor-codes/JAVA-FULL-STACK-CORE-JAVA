@@ -394,3 +394,7 @@ OR
 > jar -xf my
 
 --------------------------------------------------
+
+exception handling
+
+try, catch, finally, throw, throws
